@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 .git
+dogModel.h5
+__pycache__
+app.py
