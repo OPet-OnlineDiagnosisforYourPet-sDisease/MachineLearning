@@ -10,7 +10,7 @@ The model aim to accurately classify 12 dog diseases based on symptoms given usi
 | Model Input | List of symptomps |
 | Model Output | Classification of Dog Diseases |
 
-# Dog Skin Disease Model 
+# Dog Skin Diseases Model 
 The model aim to classify 4 dog skin diseases using CNN. The image dataset were collected independently by manually downloading it from Google Images. We didn't conduct image scraping due to data scarcity.
 Our model performed wonderfully during training, yet it failed to produce useful results during testing. Even tough we have serious overvitting issue, we kept deploying it in our application with some considerations. 
 | **Information** | **Value** |
